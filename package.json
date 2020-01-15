@@ -1,0 +1,19 @@
+{
+  "name": "github_actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vshrenikraj/Github_Actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vshrenikraj/Github_Actions/issues"
+  },
+  "homepage": "https://github.com/vshrenikraj/Github_Actions#readme"
+}
